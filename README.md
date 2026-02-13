@@ -40,7 +40,8 @@ I maintain high-performance tools for Data Engineers:
 
 ### 🛠 Tech Stack
 
-*   **Languages:** Python, Rust, SQL, Bash
+*   **Languages:** Python, Rust, Go, SQL, JavaScript/TypeScript, Bash
+*   **Web Development:** React, Next.js, FastAPI, Gin
 *   **Data Engineering:** dlt, Airflow, Spark, Polars, DuckDB, Narwhals
 *   **Infrastructure:** Docker, Kubernetes, Terraform, AWS, Azure
 *   **MLOps:** MLflow, ONNX, XGBoost
