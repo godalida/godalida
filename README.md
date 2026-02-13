@@ -86,11 +86,6 @@ I maintain high-performance tools for Data Engineers:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godalida&show_icons=true&theme=radical&hide_border=true" alt="Glenn's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godalida&layout=compact&theme=radical&hide_border=true" alt="Glenn's Top Languages" />
-</div>
-
 <br>
 
 📫 **Reach me at:** [dalidaglenno6452@gmail.com](mailto:dalidaglenno6452@gmail.com)
