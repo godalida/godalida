@@ -37,14 +37,14 @@ I maintain high-performance tools for Data Engineers:
 > **The Data-First ML Orchestration Framework.**
 > A lightweight Python library for batch inference pipelines using `dlt` and `Narwhals`.
 > 
-> [![PyPI](https://img.shields.io/pypi/v/koala-flow?color=green&style=flat-square)](https://pypi.org/project/koala-flow/)
+> [![PyPI](https://img.shields.io/pypi/v/koala-flow?color=green)](https://pypi.org/project/koala-flow/)
 > [![Tests](https://img.shields.io/github/actions/workflow/status/godalida/koala-flow/tests.yml?branch=main)](https://github.com/godalida/koala-flow/actions)
 
 #### ⚡ [Koala Diff](https://github.com/godalida/koala-diff)
 > **Blazingly Fast Data Comparison.**
 > A Rust-powered engine to compare massive datasets (CSV/Parquet) instantly without crashing RAM.
 >
-> [![PyPI](https://img.shields.io/pypi/v/koala-diff?color=green&style=flat-square)](https://pypi.org/project/koala-diff/)
+> [![PyPI](https://img.shields.io/pypi/v/koala-diff?color=green)](https://pypi.org/project/koala-diff/)
 > [![Tests](https://img.shields.io/github/actions/workflow/status/godalida/koala-diff/CI.yml?branch=main)](https://github.com/godalida/koala-diff/actions)
 
 ---
