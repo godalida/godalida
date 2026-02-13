@@ -15,7 +15,7 @@
 **Data Engineer @ IBM | Founder @ [Koala Data Lab](https://koaladatalab.com/)**
 Obsessed with building efficient, modern data pipelines, zero-copy infrastructure, and production-ready AI.
 
-I specialize in **Python**, **Rust**, and the **Modern Data Stack** (`dlt`, `Polars`, `DuckDB`).
+I specialize in **Python**, **Go Lang** ,**Rust**, and the **Modern Data Stack** (`dlt`, `Polars`, `DuckDB`).
 
 ---
 
